@@ -136,7 +136,13 @@ public class AppRecursividad extends JPanel{
       Tablero tab = new Tablero();
   
    
-       
+       //Prueba
+       public int suma(){
+          
+          int a,b;
+          a=b+a;
+          return a; 
+       }
        
     
         
